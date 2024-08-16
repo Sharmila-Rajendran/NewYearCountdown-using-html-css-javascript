@@ -1,0 +1,49 @@
+.section{
+    margin: 100px 200px;
+    text-align: center;
+    padding: 20px;
+}
+
+.section h1{
+    font-size: 50px;
+    color: white;
+}
+
+.container{
+    width: 100%;
+    padding: 50px;
+}
+
+.count{
+    display:flex;
+    gap: 30px;
+    text-align: center;
+}
+
+.box{
+    width: 200px;
+    border: 1px solid transparent;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px white;
+    padding: 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.box h3{
+    padding: 10px;
+    font-size: 50px;
+}
+
+.bottom{
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+}
